@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 130px 1190px;
+  grid-template-areas: "header main ";
+
+  gap: 5px;
+}
+
+.header {
+  grid-area: header;
+  background-color: gray;
+}
+
+.main {
+  grid-area: main;
+  background-color: gray;
+}
