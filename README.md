@@ -14,5 +14,6 @@ Olá me chamo Patrick Cavalcante Gomes tenho 38 anos, resido na cidade de São P
     <img align="center" alt="html" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    ![Snake animation](https://github.com/tikaoo/tikaoo/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/tikaoo/tikaoo/blob/output/github-contribution-grid-snake.svg)
+
