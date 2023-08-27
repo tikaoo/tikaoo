@@ -24,8 +24,8 @@ Além do meu compromisso com a evolução profissional, também dedico parte do 
 Estou confiante de que a jornada que venho trilhando, repleta de aprendizado e dedicação nos últimos 2 anos, me conduzirá a uma posição gratificante na área de tecnologia. Estou ansioso para colocar em prática tudo o que venho absorvendo e contribuir de maneira significativa nesse campo empolgante.
 
 
-💡  #Minhas Skills
-    ###Conheça as tecnologias que domino:
+💡  ## Minhas Skills
+    ### Conheça as tecnologias que domino:
 
 [2022] Bolsista SoulCode do BootCamp Java FullStack Web. <br/>
 FrontEnd: HTML 5-CSS3-JavaScript - TypeScript  <br/>
