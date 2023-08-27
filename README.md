@@ -1,9 +1,28 @@
 Olá! 👋
 Primeiramente fico muito feliz que você tenha chego até aqui e, já que você chegou, te convido a conhecer um pouco mais sobre mim....
 
-🔸 Afinal, quem é o Patrick?
-Profissional com mais de 16 anos de experiência no setor de qualidade e processos, técnico em artes gráficas pelo Senai, graduado em Administração e MBA em Gestão da Qualidade, Auditor líder e especialista nas normas NBR ISO 9001,14000 e 18000, foi essa área que me propiciou diversas conquistas, até hoje, atuando sempre como analista ou consultor de qualidade, mas chega um momento que você decide fazer o que gosta e não só trabalhar pelo salário no fim do mês!
-Por isso decidi largar tudo, ou quase tudo, e partir para a área de T.I, mesmo beirando os 40! Realizei o curso de Front-End no Senai, participei do Bootcamp da SoulCode ( Web Full-Stack - Angular-Java), no momento faço outro bootcamp na Digital one (DIO) e já me vejo fazendo outros cursos, porém preciso de prática e ela só é conquistada recebendo uma oportunidade!! E aí? Será você a me dar a primeira?!caso sua resposta seja sim, saiba que terá um profissional com as soft skills de 20 anos de experiência  no setor de qualidade e processos com participação em implementação e manutenção das normas NBR ISO 9001,14000 e 18000, pleno conhecimento do Conceito de boas práticas de fabricação [BPF], Gestão de Segurança de Alimentos [NBR 22000], Análise de Perigos e Pontos Críticos de Controle [APPCC] e Forest Stewardship Council [FSC], liderança de equipes, treinamentos e toda à rotina da área administrativa , mas precisando colocar as, novas, hard skills em jogo! Quais os meus objetivos? Me tornar um desenvolvedor eficiente, conseguir uma oportunidade na área e transformar problemas em soluções na área empresarial, por conseguinte, conquistar minha independência financeira, poder dar melhor oportunidade para minha filha .🤞🤞
+🔸 ## Afinal, quem é o Patrick?
+
+Tenho 40 anos, sou natural de São Paulo, “oh loco bicho, mano.. rs”, e atualmente estou em transição de carreira da área de qualidade e processos, por isso já possuo experiência em squads multidisciplinares, conseguindo navegar entre os diversos perfis de colaboradores, para área de desenvolvimento (não quero ser o chato que aponta o erro dos devs, quero ser o cara que comete os erros que os testes vão encontrar...rs).
+
+Desde janeiro de 2022 venho estudando sobre programação e me apaixonei pelo frontend com Angular, a interface entre o usuário e o cliente, a tela bonita que vocês veem na tela do seu smart, porém quando vejo o backend, parte lógica da aplicação, meus olhos "brilham", pelo menos é isso que meus professores de Java com Spring falavam, como estou no início dos estudos com node.js eles ainda não sabem desse meu caso amoroso com o frontend.
+
+Chego à conclusão de que estou em um "trisal" tecnológico de fullstack.
+
+Eu acredito que através da programação não criamos aplicativos, criamos conexões, que impactam a vida das pessoas.
+
+Formado pela Soulcode onde estive imerso no ecossistema Java/Spring no backend e Angular no frontend, banco de dados SQL com MySQL e agora outro bootcamp, também como bolsista, na Cubos Academy formação backend em Node.js Express, banco de dados em Postgree, alguns outros cursos relacionado com testes, Selenium webdriver, postman, cypress, curso de QA com a Qa.coders, bootcamp de cloud com AWS na escola da nuvem, buscando minha primeira oportunidade como desenvolvedor.
+
+Ficarei feliz em conectar-me e discutir possíveis oportunidades!
+
+## Além das Telas
+
+Além do meu compromisso com a evolução profissional, também dedico parte do meu tempo ao convívio com minha adorável filha de 9 anos. Nos momentos de lazer, meu foco principal é o estudo, em busca de aprimorar meus conhecimentos e habilidades.
+
+## Próximos Passos
+
+Estou confiante de que a jornada que venho trilhando, repleta de aprendizado e dedicação nos últimos 2 anos, me conduzirá a uma posição gratificante na área de tecnologia. Estou ansioso para colocar em prática tudo o que venho absorvendo e contribuir de maneira significativa nesse campo empolgante.
+
 
 💡 Transição de Carreira área Tech 
 
@@ -47,7 +66,7 @@ Banco de Dados: PostgreSQL
     <img align="center" alt="html" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>    
     <img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/> <br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
     <img align="center" alt="html" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/> 
     <img align="center" alt="html" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>     <br/> 
