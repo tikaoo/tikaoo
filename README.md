@@ -1,7 +1,7 @@
 Olá! 👋
 Primeiramente fico muito feliz que você tenha chego até aqui e, já que você chegou, te convido a conhecer um pouco mais sobre mim....
 
-🔸 ## Afinal, quem é o Patrick?
+ ## Afinal, quem é o Patrick?
 
 Tenho 40 anos, sou natural de São Paulo, “oh loco bicho, mano.. rs”, e atualmente estou em transição de carreira da área de qualidade e processos, por isso já possuo experiência em squads multidisciplinares, conseguindo navegar entre os diversos perfis de colaboradores, para área de desenvolvimento (não quero ser o chato que aponta o erro dos devs, quero ser o cara que comete os erros que os testes vão encontrar...rs).
 
@@ -24,8 +24,8 @@ Além do meu compromisso com a evolução profissional, também dedico parte do 
 Estou confiante de que a jornada que venho trilhando, repleta de aprendizado e dedicação nos últimos 2 anos, me conduzirá a uma posição gratificante na área de tecnologia. Estou ansioso para colocar em prática tudo o que venho absorvendo e contribuir de maneira significativa nesse campo empolgante.
 
 
-💡  ## Minhas Skills
-    ### Conheça as tecnologias que domino:
+ ## Minhas Skills <br/>
+ ### Conheça as tecnologias que domino:
 
 [2022] Bolsista SoulCode do BootCamp Java FullStack Web. <br/>
 FrontEnd: HTML 5-CSS3-JavaScript - TypeScript  <br/>
