@@ -6,14 +6,25 @@ Profissional com mais de 16 anos de experiência no setor de qualidade e process
 Por isso decidi largar tudo, ou quase tudo, e partir para a área de T.I, mesmo beirando os 40! Realizei o curso de Front-End no Senai, participei do Bootcamp da SoulCode ( Web Full-Stack - Angular-Java), no momento faço outro bootcamp na Digital one (DIO) e já me vejo fazendo outros cursos, porém preciso de prática e ela só é conquistada recebendo uma oportunidade!! E aí? Será você a me dar a primeira?!caso sua resposta seja sim, saiba que terá um profissional com as soft skills de 20 anos de experiência  no setor de qualidade e processos com participação em implementação e manutenção das normas NBR ISO 9001,14000 e 18000, pleno conhecimento do Conceito de boas práticas de fabricação [BPF], Gestão de Segurança de Alimentos [NBR 22000], Análise de Perigos e Pontos Críticos de Controle [APPCC] e Forest Stewardship Council [FSC], liderança de equipes, treinamentos e toda à rotina da área administrativa , mas precisando colocar as, novas, hard skills em jogo! Quais os meus objetivos? Me tornar um desenvolvedor eficiente, conseguir uma oportunidade na área e transformar problemas em soluções na área empresarial, por conseguinte, conquistar minha independência financeira, poder dar melhor oportunidade para minha filha .🤞🤞
 
 💡 Transição de Carreira área Tech 
-[2022] Bolsista do BootCamp  como desenvolvedor  Java FullStack Web, desenvolvendo algoritmos, e projetos web. 
+[2022] Bolsista SoulCode do BootCamp Java FullStack Web.
 FrontEnd: HTML 5-CSS3-JavaScript - TypeScript 
 FrameWork - Angular - Angular Material - BootStrap
 BackEnd:Java -Spring- Firebase
 Banco de Dados: MySQL - Redis - PostgreSQL
 
-💡 Senai - FrontEnd  
-[2020-2021] Como aluno no curso de FrontEnd  desenvolvendo algoritmos, e projetos web. 
+[2023] Bolsista Qa.coders BootCamp Quality Assurance. 
+Testes: Cucumber,BDD e Postman.
+Banco de Dados: MongoDB
+
+[2023] Bolsista Trip Escola BootCamp Teste de Software. 
+Testes funcionais.
+
+[2023] Bolsista Cubos Academy BootCamp Desenvolvedor backend . 
+Backend: Node.js.
+Banco de Dados: PostgreSQL
+
+[2023] Bolsista Uol Compass data analytics **em andamento**. 
+
 
 💡 Outros Cursos  
 [2022] Inglês - Lingopass - Certificado B2
@@ -35,8 +46,11 @@ Banco de Dados: MySQL - Redis - PostgreSQL
     <img align="center" alt="html" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
-    
-    
-   ![Snake animation](https://github.com/tikaoo/tikaoo/blob/output/github-contribution-grid-snake.svg)
+    <img align="center" alt="html" src="https://img.shields.io/badge/Node.js-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/Cucumber-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/Cypres.io-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/SeleniumWebdriver-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/Quality-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <br/>    
+   
 </div>
 
