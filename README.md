@@ -1,7 +1,7 @@
 Olá! 👋
 Primeiramente fico muito feliz que você tenha chego até aqui e, já que você chegou, te convido a conhecer um pouco mais sobre mim....
 
- ## Afinal, quem é o Patrick?
+## Afinal, quem é o Patrick?
 
 Tenho 40 anos, sou natural de São Paulo, “oh loco bicho, mano.. rs”, e atualmente estou em transição de carreira da área de qualidade e processos, por isso já possuo experiência em squads multidisciplinares, conseguindo navegar entre os diversos perfis de colaboradores, para área de desenvolvimento (não quero ser o chato que aponta o erro dos devs, quero ser o cara que comete os erros que os testes vão encontrar...rs).
 
@@ -47,7 +47,7 @@ Banco de Dados: PostgreSQL
 [2023] Bolsista Uol Compass data analytics **em andamento**. 
 
 
-💡 Outros Cursos  
+## Outros Cursos  
 [2022] Inglês - Lingopass - Certificado B2
 [2016] Inglês - Wizard - Certificado A2
 
