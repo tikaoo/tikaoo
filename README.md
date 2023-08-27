@@ -51,7 +51,7 @@ Banco de Dados: PostgreSQL
 [2022] Inglês - Lingopass - Certificado B2
 [2016] Inglês - Wizard - Certificado A2
 
-🔹 Portfólio: tikaoo.github.io
+🔹 Portfólio: [tikaoo.github.io](https://tikaoo.github.io/)
 
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cavalcante-gomes/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](patrick.cavalcante.gomes@gmail.com)
