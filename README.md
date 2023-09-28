@@ -44,7 +44,6 @@ Testes funcionais.
 Backend: Node.js.
 Banco de Dados: PostgreSQL
 
-[2023] Bolsista Uol Compass data analytics **em andamento**. 
 
 
 ## Outros Cursos  
