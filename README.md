@@ -3,7 +3,7 @@ Primeiramente fico muito feliz que você tenha chego até aqui e, já que você 
 
 ## Afinal, quem é o Patrick?
 
-Tenho 40 anos, sou natural de São Paulo, “oh loco bicho, mano.. rs”, e atualmente estou em transição de carreira da área de qualidade e processos, por isso já possuo experiência em squads multidisciplinares, conseguindo navegar entre os diversos perfis de colaboradores, para área de desenvolvimento (não quero ser o chato que aponta o erro dos devs, quero ser o cara que comete os erros que os testes vão encontrar...rs).
+Sou natural de São Paulo, “oh loco bicho, mano.. rs”, e atualmente estou em transição de carreira da área de qualidade e processos, por isso já possuo experiência em squads multidisciplinares, conseguindo navegar entre os diversos perfis de colaboradores, para área de desenvolvimento (não quero ser o chato que aponta o erro dos devs, quero ser o cara que comete os erros que os testes vão encontrar...rs).
 
 Desde janeiro de 2022 venho estudando sobre programação e me apaixonei pelo frontend com Angular, a interface entre o usuário e o cliente, a tela bonita que vocês veem na tela do seu smart, porém quando vejo o backend, parte lógica da aplicação, meus olhos "brilham", pelo menos é isso que meus professores de Java com Spring falavam, como estou no início dos estudos com node.js eles ainda não sabem desse meu caso amoroso com o frontend.
 
